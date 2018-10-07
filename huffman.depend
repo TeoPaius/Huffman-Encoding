@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497280506 source:d:\c++\huffman\huffman\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<assert.h>
+
